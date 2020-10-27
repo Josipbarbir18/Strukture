@@ -60,7 +60,7 @@ int main(){
 	n = brojredaka("Studenti.txt");
 	niz = (Student*)malloc(n * sizeof(Student));
 
-	n = brojredaka("Studenti.txt");
+
 
 	printf("Broj studenata je: %d\n", n);
 
